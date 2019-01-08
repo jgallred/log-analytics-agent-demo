@@ -1,0 +1,9 @@
+{
+  "name": "jallred/log-analytics-demo",
+  "description": "Demonstrates functionality of the log analytics linux agent",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "require": {
+    "apache/log4php": "2.3.0"
+  }
+}
