@@ -14,7 +14,7 @@ Logger::configure(
                 'layout' => [
                     'class' => 'LoggerLayoutPattern',
                     'params' => [
-                        'conversionPattern' => '%date{Y-m-d\TH:i:s.uP} %pid [%level] [%logger] %message%newline'
+                        'conversionPattern' => '%date{Y-m-d\TH:i:sP} %pid [%level] [%logger] %message%newline'
                     ]
                 ],
             ]
